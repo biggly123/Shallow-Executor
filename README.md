@@ -1,5 +1,7 @@
 Welcome to Shallow! A free Roblox executor that (hopefully) can run advanced scripts.
 
+Makue sure to click the green button and press "Download as ZIP" Don't forget to extract!
+
 I AM A SOLO DEVELOPER AND THIS IS MY FIRST MAIN PROJECT
 
 This is basically supported by the fact the "Wave" is pretty shitty and has weirdo devs
